@@ -743,6 +743,12 @@
     "productName": "Marly and Dan",
     "url": "https://masterzoo.ua/ua/marly-and-dan/"
   },
+    {
+    "brand": "Mervue",
+    "imageUrl": "/content/images/6/120x120l75nn0/mervue-77529936726561.webp",
+    "productName": "Mervuen",
+    "url": "https://masterzoo.ua/ua/mervue/"
+  },
   {
     "brand": "Nature's Miracle",
     "imageUrl": "/content/images/2/180x107l75nn0/33870779482285.webp",
@@ -1024,6 +1030,12 @@
     "imageUrl": "/content/images/34/120x120l75nn0/vets-best-84709691769988.webp",
     "productName": "Vet's Best",
     "url": "https://masterzoo.ua/ua/vets-best/"
+  },
+          {
+    "brand": "Virbac",
+    "imageUrl": "/content/images/8/120x120l75nn0/virbac-56401986452541.webp",
+    "productName": "Virbac",
+    "url": "https://masterzoo.ua/ua/virbac/"
   },
   {
     "brand": "Wahl",
