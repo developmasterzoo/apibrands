@@ -473,11 +473,17 @@
       "productName": "Els pet",
       "url": "https://masterzoo.ua/ua/els-pet/"
     },
-       {
+    {
       "brand": "EuroDog",
       "imageUrl": "/content/images/11/120x120l75nn0/eurodog-17952379510939.webp",
       "productName": "EuroDog",
       "url": "https://masterzoo.ua/ua/eurodog/"
+    },
+    {
+      "brand": "EuroCat",
+      "imageUrl": "/content/images/12/120x120l75nn0/eurocat-73274106950483.webp",
+      "productName": "EuroCat",
+      "url": "https://masterzoo.ua/ua/eurocat/"
     },
     {
       "brand": "FURminator",
@@ -550,6 +556,12 @@
     "imageUrl": "/content/images/3/120x120l75nn0/fofos-60080310086186.webp",
     "productName": "Fofos",
     "url": "https://masterzoo.ua/ua/fofos/"
+  },
+    {
+    "brand": "Flyber",
+    "imageUrl": "/content/images/17/120x120l75nn0/flyber-56812032679959.webp",
+    "productName": "Flyber",
+    "url": "https://masterzoo.ua/ua/flyber/"
   },
   {
     "brand": "GiGwi",
@@ -718,6 +730,12 @@
     "imageUrl": "/content/images/1/115x50l75nn0/living-world-94295228875145.webp",
     "productName": "Living World",
     "url": "https://masterzoo.ua/ua/living-world/"
+  },
+    {
+    "brand": "Liker",
+    "imageUrl": "/content/images/13/120x120l75nn0/liker-27870561912726.webp",
+    "productName": "Liker",
+    "url": "https://masterzoo.ua/ua/liker/"
   },
   {
     "brand": "Marina",
@@ -929,11 +947,23 @@
     "productName": "Petz Creation",
     "url": "https://masterzoo.ua/ua/petz-creation/"
   },
-          {
+    {
     "brand": "Plutos",
     "imageUrl": "/content/images/42/170x120l75nn0/plutos-87589995969155.webp",
     "productName": "Plutos",
     "url": "https://masterzoo.ua/ua/plutos/"
+  },
+    {
+    "brand": "Puller",
+    "imageUrl": "/content/images/14/120x120l75nn0/puller-96802195160009.webp",
+    "productName": "Puller",
+    "url": "https://masterzoo.ua/ua/puller/"
+  },
+    {
+    "brand": "PitchDog",
+    "imageUrl": "/content/images/15/120x120l75nn0/pitchdog-11447144825927.webp",
+    "productName": "PitchDog",
+    "url": "https://masterzoo.ua/ua/pitchdog/"
   },
   {
     "brand": "Resun",
@@ -1072,6 +1102,12 @@
     "imageUrl": "/content/images/10/120x120l75nn0/west-vet-62357872828164.webp",
     "productName": "West Vet",
     "url": "https://masterzoo.ua/ua/west-vet/"
+  },
+    {
+    "brand": "Waudog Fun",
+    "imageUrl": "/content/images/16/120x120l75nn0/waudog-fun-11780433740543.webp",
+    "productName": "Waudog Fun",
+    "url": "https://masterzoo.ua/ua/waudog-fun/"
   },
   {
     "brand": "VetExpert",
