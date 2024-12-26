@@ -158,6 +158,10 @@
     "imageUrl": "/content/images/22/120x120l75nn0/candioli-11737300472626.webp",
     "productName": "Candioli",
     "url": "https://masterzoo.ua/ua/candioli/",
+      "type": [
+     "dog",
+      "cat"
+    ]
   },
   {
     "brand": "Dog Chow",
