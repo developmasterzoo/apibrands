@@ -1530,6 +1530,15 @@
       "dog"
     ]
   },
+    {
+    "brand": "Pet Chef",
+    "imageUrl": "/content/images/2/120x120l75nn0/pet-chef-63189874542905.webp",
+    "productName": "Pet Chef",
+    "url": "https://masterzoo.ua/ua/pet-chef/",
+    "type": [
+      "dog", "cat"
+    ]
+  },
   {
     "brand": "Resun",
     "imageUrl": "/content/images/11/180x60l75nn0/resun-40363794526485.webp",
