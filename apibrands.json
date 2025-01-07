@@ -1566,6 +1566,15 @@
       "dog", "cat"
     ]
   },
+     {
+    "brand": "Pet’s Up",
+    "imageUrl": "/content/images/27/120x120l75nn0/pets-up-93133778289580.webp",
+    "productName": "Pet’s Up",
+    "url": "https://masterzoo.ua/ua/pets-up/",
+    "type": [
+      "dog"
+    ]
+  },
   {
     "brand": "Richter Pharma",
     "imageUrl": "/content/images/1/120x120l75nn0/richter-pharma-23461724669378.webp",
