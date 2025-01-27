@@ -436,6 +436,16 @@
       "cat"
     ]
   },
+   {
+    "brand": "BonaCibo",
+    "imageUrl": "/content/images/36/120x120l75nn0/bonacibo-18876521816899.webp",
+    "productName": "BonaCibo",
+    "url": "https://masterzoo.ua/ua/bonacibo/",
+    "type": [
+      "dog",
+      "cat"
+    ]
+  },
   {
     "brand": "Canina",
     "imageUrl": "/content/images/32/180x76l75nn0/45973191427179.webp",
@@ -1072,6 +1082,15 @@
     "type": [
       "dog",
       "cat"
+    ]
+  },
+  {
+    "brand": "HealthyDoggo",
+    "imageUrl": "/content/images/32/120x120l75nn0/healthydoggo-15261949117790.webp",
+    "productName": "HealthyDoggo",
+    "url": "https://masterzoo.ua/ua/healthydoggo/",
+    "type": [
+      "dog"
     ]
   },
   {
