@@ -616,6 +616,15 @@
       "cat"
     ]
   },
+    {
+    "brand": "Croci",
+    "imageUrl": "/content/images/41/120x120l75nn0/croci-37744253290880.webp",
+    "productName": "Croci",
+    "url": "https://masterzoo.ua/ua/croci/",
+    "type": [
+      "cat"
+    ]
+  }
   {
     "brand": "Dermoscent",
     "imageUrl": "/content/images/41/120x120l75nn0/dermoscent-55294980867677.webp",
@@ -679,6 +688,16 @@
     "imageUrl": "/content/images/18/120x120l75nn0/delickcious-80003556860745.webp",
     "productName": "Delickcious",
     "url": "https://masterzoo.ua/ua/delickcious/",
+    "type": [
+      "dog",
+      "cat"
+    ]
+  },
+    {
+    "brand": "DoggyMan",
+    "imageUrl": "/content/images/33/120x120l75nn0/doggyman-49285508743727.webp",
+    "productName": "DoggyMan",
+    "url": "https://masterzoo.ua/ua/doggyman/",
     "type": [
       "dog",
       "cat"
@@ -1109,6 +1128,16 @@
     "productName": "Invesa",
     "url": "https://masterzoo.ua/ua/invesa/"
   },
+    {
+    "brand": "Iv San Bernard",
+    "imageUrl": "/content/images/42/120x120l75nn0/iv-san-bernard-30876195728270.webp",
+    "productName": "Iv San Bernard",
+    "url": "https://masterzoo.ua/ua/iv-san-bernard/",
+    "type": [
+      "dog",
+      "cat"
+    ]
+  },
   {
     "brand": "Jaba",
     "imageUrl": "/content/images/1/103x73l75nn0/jaba-97688338598479.webp",
@@ -1354,13 +1383,21 @@
     ]
   },
    {
-    "brand": "Nina Ottosson",
-    "imageUrl": "/content/images/37/120x120l75nn0/nina-ottosson-29688097902327.webp",
-    "productName": "Nina Ottosson",
-    "url": "https://masterzoo.ua/ua/nina-ottosson/",
+    "brand": "Natural Dog Company",
+    "imageUrl": "/content/images/1/165x120l75nn0/98670727264903.webp",
+    "productName": "Natural Dog Company",
+    "url": "https://masterzoo.ua/ua/nechay-zoo/",
     "type": [
-      "dog",
-      "cat"
+      "acva"
+    ]
+  },
+   {
+    "brand": "Nina Ottosson",
+    "imageUrl": "/content/images/35/120x120l75nn0/natural-dog-company-55009696563318.webp",
+    "productName": "Nina Ottosson",
+    "url": "https://masterzoo.ua/ua/natural-dog-company/",
+    "type": [
+      "dog"
     ]
   },
   {
@@ -2001,6 +2038,12 @@
       "acva",
       "ter"
     ]
+  },
+    {
+    "brand": "Пухнастики",
+    "imageUrl": "/content/images/39/120x120l75nn0/pukhnastyky-69387147815743.webp",
+    "productName": "Пухнастики",
+    "url": "https://masterzoo.ua/ua/pukhnastyky/"
   },
   {
     "brand": "Укрветпромпостач",
