@@ -9,10 +9,19 @@
       "cat"
     ]
   },
+  {
+    "brand": "Dezynadog",
+    "imageUrl": "/content/images/47/120x120l75nn0/dezynadog-71462641909169.webp",
+    "productName": "Dezynadog",
+    "url": "https://masterzoo.ua/ua/dezynadog/",
+    "type": [
+      "dog"
+    ]
+  },
    {
-    "brand": "Chewllagen ",
+    "brand": "Chewllagen",
     "imageUrl": "/content/images/29/120x120l75nn0/chewllagen-83430941811297.webp",
-    "productName": "Chewllagen ",
+    "productName": "Chewllagen",
     "url": "https://masterzoo.ua/ua/chewllagen/",
     "type": [
       "dog"
