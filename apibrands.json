@@ -18,7 +18,7 @@
       "dog"
     ]
   },
-   {
+  {
     "brand": "Chewllagen",
     "imageUrl": "/content/images/29/120x120l75nn0/chewllagen-83430941811297.webp",
     "productName": "Chewllagen",
@@ -135,7 +135,7 @@
       "cat"
     ]
   },
-    {
+  {
     "brand": "Kotix",
     "imageUrl": "/content/images/40/120x120l75nn0/kotix-20740354571445.webp",
     "productName": "Kotix",
@@ -169,7 +169,10 @@
     "imageUrl": "/content/images/12/120x120l75nn0/pro-plan-34342604071536.webp",
     "productName": "Pro Plan",
     "url": "https://masterzoo.ua/ua/pro-plan/",
-    "type": []
+    "type": [
+      "dog",
+      "cat"
+    ]
   },
   {
     "brand": "Optimeal",
@@ -228,13 +231,13 @@
       "cat"
     ]
   },
-    {
+  {
     "brand": "Candioli",
     "imageUrl": "/content/images/22/120x120l75nn0/candioli-11737300472626.webp",
     "productName": "Candioli",
     "url": "https://masterzoo.ua/ua/candioli/",
-      "type": [
-     "dog",
+    "type": [
+      "dog",
       "cat"
     ]
   },
@@ -304,8 +307,7 @@
     "url": "https://masterzoo.ua/ua/8in1/",
     "type": [
       "dog",
-      "cat",
-      "rat"
+      "cat"
     ]
   },
   {
@@ -430,7 +432,6 @@
     "productName": "Bayer",
     "url": "https://masterzoo.ua/ua/bayer/",
     "type": [
-      "dog",
       "cat",
       "rat"
     ]
@@ -488,7 +489,6 @@
     "productName": "Bravecto",
     "url": "https://masterzoo.ua/ua/bravecto/",
     "type": [
-      "dog",
       "cat"
     ]
   },
@@ -511,7 +511,7 @@
       "cat"
     ]
   },
-   {
+  {
     "brand": "BonaCibo",
     "imageUrl": "/content/images/36/120x120l75nn0/bonacibo-18876521816899.webp",
     "productName": "BonaCibo",
@@ -538,7 +538,6 @@
     "productName": "Cat Shield",
     "url": "https://masterzoo.ua/ua/cat-shield/",
     "type": [
-      "dog",
       "cat"
     ]
   },
@@ -662,8 +661,7 @@
     "productName": "Copoly",
     "url": "https://masterzoo.ua/ua/copoly/",
     "type": [
-      "dog",
-      "cat"
+      "dog"
     ]
   },
   {
@@ -691,12 +689,13 @@
       "cat"
     ]
   },
-    {
+  {
     "brand": "Croci",
     "imageUrl": "/content/images/41/120x120l75nn0/croci-37744253290880.webp",
     "productName": "Croci",
     "url": "https://masterzoo.ua/ua/croci/",
     "type": [
+      "dog",
       "cat"
     ]
   },
@@ -716,7 +715,8 @@
     "productName": "DogsRogs",
     "url": "https://masterzoo.ua/ua/dogsrogs/",
     "type": [
-      "dog"
+      "dog",
+      "cat"
     ]
   },
   {
@@ -768,7 +768,7 @@
       "cat"
     ]
   },
-    {
+  {
     "brand": "DoggyMan",
     "imageUrl": "/content/images/33/120x120l75nn0/doggyman-49285508743727.webp",
     "productName": "DoggyMan",
@@ -841,6 +841,8 @@
     "productName": "TerriX",
     "url": "https://masterzoo.ua/ua/terrix/",
     "type": [
+      "birds",
+      "rat",
       "ter"
     ]
   },
@@ -857,7 +859,11 @@
     "brand": "Eye Envy",
     "imageUrl": "/content/images/1/180x80l75nn0/eye-envy-17998232905045.webp",
     "productName": "Eye Envy",
-    "url": "https://masterzoo.ua/ua/eye-envy/"
+    "url": "https://masterzoo.ua/ua/eye-envy/",
+    "type": [
+      "dog",
+      "cat"
+    ]
   },
   {
     "brand": "Espree",
@@ -875,7 +881,6 @@
     "productName": "Elanco",
     "url": "https://masterzoo.ua/ua/elanco/",
     "type": [
-      "dog",
       "cat"
     ]
   },
@@ -1072,8 +1077,7 @@
     "productName": "GimDog",
     "url": "https://masterzoo.ua/ua/gimdog/",
     "type": [
-      "dog",
-      "cat"
+      "dog"
     ]
   },
   {
@@ -1157,7 +1161,6 @@
     "productName": "Haupt Pharma",
     "url": "https://masterzoo.ua/ua/haupt-pharma/",
     "type": [
-      "dog",
       "cat"
     ]
   },
@@ -1167,8 +1170,7 @@
     "productName": "HelloMoon",
     "url": "https://masterzoo.ua/ua/hellomoon/",
     "type": [
-      "dog",
-      "cat"
+      "dog"
     ]
   },
   {
@@ -1202,8 +1204,7 @@
     "productName": "Incor",
     "url": "https://masterzoo.ua/ua/incor/",
     "type": [
-      "dog",
-      "cat"
+      "dog"
     ]
   },
   {
@@ -1212,7 +1213,7 @@
     "productName": "Invesa",
     "url": "https://masterzoo.ua/ua/invesa/"
   },
-    {
+  {
     "brand": "Iv San Bernard",
     "imageUrl": "/content/images/42/120x120l75nn0/iv-san-bernard-30876195728270.webp",
     "productName": "Iv San Bernard",
@@ -1259,7 +1260,7 @@
       "acva"
     ]
   },
-   {
+  {
     "brand": "JBL",
     "imageUrl": "/content/images/23/120x120l75nn0/jbl-95807267748444.webp",
     "productName": "JBL",
@@ -1268,7 +1269,7 @@
       "acva"
     ]
   },
-    {
+  {
     "brand": "Just Litter",
     "imageUrl": "/content/images/19/120x120l75nn0/just-litter-72521997194066.webp",
     "productName": "Just Litter",
@@ -1321,7 +1322,7 @@
       "dog"
     ]
   },
-    {
+  {
     "brand": "KARO CRAFT",
     "imageUrl": "/content/images/26/120x120l75nn0/karo-craft-23721044880090.webp",
     "productName": "KARO CRAFT",
@@ -1373,6 +1374,7 @@
       "dog",
       "cat",
       "birds",
+      "rat",
       "acva",
       "ter"
     ]
@@ -1421,7 +1423,7 @@
       "cat"
     ]
   },
-   {
+  {
     "brand": "Mavsy",
     "imageUrl": "/content/images/31/120x120l75nn0/mavsy-17467840326771.webp",
     "productName": "Mavsy",
@@ -1462,26 +1464,26 @@
     "productName": "Noble Pet",
     "url": "https://masterzoo.ua/ua/noble-pet/",
     "type": [
-      "dog",
-      "cat"
+      "dog"
     ]
   },
-   {
+  {
     "brand": "Natural Dog Company",
     "imageUrl": "/content/images/1/165x120l75nn0/98670727264903.webp",
     "productName": "Natural Dog Company",
     "url": "https://masterzoo.ua/ua/nechay-zoo/",
     "type": [
-      "acva"
+      "dog"
     ]
   },
-   {
+  {
     "brand": "Nina Ottosson",
     "imageUrl": "/content/images/35/120x120l75nn0/natural-dog-company-55009696563318.webp",
     "productName": "Nina Ottosson",
     "url": "https://masterzoo.ua/ua/natural-dog-company/",
     "type": [
-      "dog"
+      "dog",
+      "cat"
     ]
   },
   {
@@ -1510,7 +1512,6 @@
     "productName": "Outward",
     "url": "https://masterzoo.ua/ua/outward/",
     "type": [
-      "dog",
       "cat"
     ]
   },
@@ -1565,6 +1566,7 @@
     "type": [
       "dog",
       "cat",
+      "rat",
       "acva"
     ]
   },
@@ -1717,13 +1719,14 @@
       "dog"
     ]
   },
-    {
+  {
     "brand": "Pet Chef",
     "imageUrl": "/content/images/2/120x120l75nn0/pet-chef-58663201811410.webp",
     "productName": "Pet Chef",
     "url": "https://masterzoo.ua/ua/pet-chef/",
     "type": [
-      "dog", "cat"
+      "dog",
+      "cat"
     ]
   },
   {
@@ -1735,16 +1738,17 @@
       "acva"
     ]
   },
-    {
+  {
     "brand": "Plaqtiv+",
     "imageUrl": "/content/images/24/120x120l75nn0/plaqtiv-12604573376272.webp",
     "productName": "Plaqtiv+",
     "url": "https://masterzoo.ua/ua/plaqtiv/",
     "type": [
-      "dog", "cat"
+      "dog",
+      "cat"
     ]
   },
-     {
+  {
     "brand": "Pet’s Up",
     "imageUrl": "/content/images/27/120x120l75nn0/pets-up-93133778289580.webp",
     "productName": "Pet’s Up",
@@ -1828,11 +1832,10 @@
     "productName": "Superium",
     "url": "https://masterzoo.ua/ua/superium/",
     "type": [
-      "dog",
       "cat"
     ]
   },
-   {
+  {
     "brand": "Sani Pet",
     "imageUrl": "/content/images/1/120x120l75nn0/sani-pet-55074108757053.webp",
     "productName": "Sani Pet",
@@ -1934,7 +1937,6 @@
     "productName": "Virbac",
     "url": "https://masterzoo.ua/ua/virbac/",
     "type": [
-      "dog",
       "cat"
     ]
   },
@@ -2050,6 +2052,7 @@
     "productName": "Xumo",
     "url": "https://masterzoo.ua/ua/xumo/",
     "type": [
+      "dog",
       "cat"
     ]
   },
@@ -2106,7 +2109,7 @@
     "productName": "Мяу",
     "url": "https://masterzoo.ua/ua/myau/",
     "type": [
-      "dog"
+      "cat"
     ]
   },
   {
@@ -2123,11 +2126,14 @@
       "ter"
     ]
   },
-    {
+  {
     "brand": "Пухнастики",
     "imageUrl": "/content/images/39/120x120l75nn0/pukhnastyky-69387147815743.webp",
     "productName": "Пухнастики",
-    "url": "https://masterzoo.ua/ua/pukhnastyky/"
+    "url": "https://masterzoo.ua/ua/pukhnastyky/",
+    "type": [
+      "cat"
+    ]
   },
   {
     "brand": "Укрветпромпостач",
@@ -2135,9 +2141,7 @@
     "productName": "Укрветпромпостач",
     "url": "https://masterzoo.ua/ua/ukrvetprompostach/",
     "type": [
-      "dog",
-      "cat",
-      "rat"
+      "cat"
     ]
   },
   {
