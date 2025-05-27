@@ -72,10 +72,20 @@
       "dog"
     ]
   },
+   {
+    "brand": "ЕфектВет",
+    "imageUrl": "/content/images/41/120x120l75nn0/efektvet-41030213087451.webp",
+    "productName": "ЕфектВет",
+    "url": "https://masterzoo.ua/ua/efektvet/",
+    "type": [
+      "dog",
+      "cat"
+    ]
+  },
   {
-    "brand": "Helpet ",
+    "brand": "Helpet",
     "imageUrl": "/content/images/42/120x120l75nn0/helpet-12353206173008.webp",
-    "productName": "Helpet ",
+    "productName": "Helpet",
     "url": "https://masterzoo.ua/ua/helpet/",
     "type": [
       "dog",
